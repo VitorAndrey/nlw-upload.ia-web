@@ -1,6 +1,6 @@
-import { Header } from "./components/layout/Header";
-import { AppContainer } from "./components/layout/AppContainer";
-import { Main } from "./components/layout/Main";
+import { Header } from "./components/Header";
+import { AppContainer } from "./components/AppContainer";
+import { Main } from "./components/Main";
 
 export function App() {
   return (
